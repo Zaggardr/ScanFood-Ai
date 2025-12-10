@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "385404742040",
+    "project_id": "zaggar-86692",
+    "storage_bucket": "zaggar-86692.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:385404742040:android:07f9d19bb7a9453c0a63ed",
+        "android_client_info": {
+          "package_name": "com.example.zaggar"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAgN51aEOo1z39O4gxM-ghjXtb4MGW0Mrw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
